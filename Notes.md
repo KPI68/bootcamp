@@ -1,0 +1,2 @@
+Secret at GitLab for Module 1:
+3c2666ff79bae64e253797e62fa1aa4ba4899447dcb83909ee655785661273b8

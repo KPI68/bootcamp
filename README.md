@@ -31,6 +31,10 @@
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
 * What are the other major companies in this domain?
+Trade Ledger - SME lending, Invoice F, RF
+Fund Through
+Demica
+Taulia (SAP)
 
 
 ## Results
@@ -38,6 +42,14 @@
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Time to cash
+Cost to service
+Manual error 
+Revenue
+Fraud detection
+Paperless
+Easy to use
+Other features and utilities
 
 * How is your company performing relative to competitors in the same domain?
 
@@ -46,8 +58,18 @@
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+Mesh Payments
+Bench
+Finally
+
+
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilise?
 
 * Why are these technologies appropriate for your solution?
+https://stackoverflow.blog/2023/04/24/instantly-verify-your-customers-online-with-open-banking-apis/?utm_source=iterable&utm_medium=email&utm_campaign=the-overflow-newsletter
+https://developer.mastercard.com/open-banking-us/documentation/products/pay/verification-account-owner/
+https://www.velotrade.com/blog/what-is-receivables-financing/
+https://www.fintechfutures.com/us/
+https://www.investopedia.com/terms/s/supply-chain-finance.asp#:~:text=Supply%20chain%20finance%20is%20a,capital%20at%20a%20lower%20cost.
